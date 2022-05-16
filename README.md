@@ -22,4 +22,38 @@
 <p align="left">
 
   <a href="https://drive.google.com/file/d/1WInV62LgsUe-cckkVXJMnGoyHoi8mZf-/view" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="100px" alt="DShergilashvili" /></a>
+
+<h1 align="center">Let's talk about <a href="https://www.linkedin.com/company/royteam"> ROY </a></h1>
+<br>
+  <p>
+      ROY LLC. is a leading IT service provider with an existing experience of more than 4 years with strength in delivering end-to-end Web and Mobile app solutions. We bring superior technology experience as per precise needs: be it a new idea or a business bottleneck holding you back or a technology team requirement to achieve your business goals.
+  We always believe that “Everything is possible.”
+</p>
+
+<p>
   
+ **Human Centric**
+  
+At ROY, we are engineers with open hearts
+Driven by our Human Centric principle, we integrate engineering excellence with human values that drive our business and approach to relationships: curiosity, empathy, trust, honesty, and intuition. These qualities help us deliver high-value, high-quality solutions that our clients depend on and lifetime partnerships they believe in.
+Commitment to people is the main and absolute value for ROY. Our mission is to learn how to realize the potential of each person to achieve the best results.
+Our corporate culture is all about people and inclusion, where everyone feels valued and is encouraged to share ideas and suggestions with top management. We support our colleagues, regardless of their background or circumstances, to thrive at work.
+ROY genuinely cares about each and every colleague. We believe that workplaces with a high level of mental well-being are not only more comfortable to work at but also much more productive.
+
+ **More than IT** 
+ 
+We are big believers in the power of keeping it simple. Every bet we’ve ever placed on making something easier for our clients. Treating people right is fundamental to how we do business. We treat our clients as we’d want to be treated.Our security and automation software simplifies critical IT processes to give our customers peace of mind. We deliver solutions based on the fundamentals of good technology design: high quality, a top-notch user experience, and the ability to improve performance.
+  
+  Whether you’re a security analyst, IT operator, business analyst, or CIO, your day is full of challenges—and often surprises. We continually hear that you’re looking for better ways to automate and secure your environments.At ROY, we consider ourselves a part of the society that accepts a wider responsibility towards each other, the communities in which we operate, and the planet we all live on.
+
+ **Our Goals**
+
+Software is supposed to make your life easier, right? We sure think so. In fact, that’s why we focus on two of the biggest pain points in IT today: security and automation. ROY has built a suite of best-in-class solutions that make security simpler and more effective and consolidate and automate IT infrastructure.
+Our goals have always been the same: Have fun, do exceptional work, build the best product in the business, experiment, pay attention to the details, treat people right, tell the truth, have a positive impact on the world around us, give back, and keep learning.
+We defy dogmatism, we are ready to change our mindset, along with the changing environment, for the greater benefit of the world.
+ 
+ **Our commitment to you**
+  
+Our commitment to you is simple: We focus on giving you solutions to improve everyday development operations and cut costs. Through reliable expert services, and outstanding support, we help you to solve your business problems and give you peace of mind.
+
+  <p/>
