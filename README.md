@@ -21,5 +21,5 @@
 <h3 align="left">Certifications</h3>
 <p align="left">
 
-<a href="https://drive.google.com/file/d/1WInV62LgsUe-cckkVXJMnGoyHoi8mZf-/view" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png" width="100px" alt="Ayeprikyan" /></a>
+  <a href="https://drive.google.com/file/d/1WInV62LgsUe-cckkVXJMnGoyHoi8mZf-/view" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="100px" alt="DShergilashvili" /></a>
   
