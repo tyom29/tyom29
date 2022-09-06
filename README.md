@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋 I'm Artyom Yeprikyan</h1>
-<h3 align="center">I am a Founder and CEO of ROY Software Engineer, Microsoft Certified Developer.</h3>
+<h3 align="center">I am a Founder and CEO @ ROY | Software Engineer - Microsoft Certified Developer | Certified Scrum Master</h3>
 <br>
 
 - 🌱 I’m currently learning **.NET 5,6, Blazor,AI,Security,Serverless with Azure Functions, Microsoft Azure technologies and etc.**
