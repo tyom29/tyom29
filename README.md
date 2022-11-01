@@ -2,7 +2,7 @@
 <h3 align="center">I am a Founder and CEO @ ROY | Software Engineer - Microsoft Certified Developer | Certified Scrum Master</h3>
 <br>
 
-- 🌱 I’m currently learning **.NET 5,6, Blazor,AI,Security,Serverless with Azure Functions, Microsoft Azure technologies and etc.**
+- 🌱 I’m currently learning and working with **.NET 6, Blazor, AI, Security, Serverless with Azure Functions, Microsoft Azure technologies and etc.**
 - 👯 I’m looking to collaborate on **anything about software engineering/architecture, cloud engineering with Microsoft Azure, serverless with Azure, AI, Security and etc.**
 - 💬 Ask me about **Software Development Cycle, C#, .NET, Microsoft Azure, Fullstack Development, Software Architecture, Agile System Development, AI, Security**
 
