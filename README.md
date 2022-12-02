@@ -1,59 +1,157 @@
-<h1 align="center">Hey! 👋 I'm Artyom Yeprikyan</h1>
-<h3 align="center">I am a Founder and CEO @ ROY | Software Engineer - Microsoft Certified Developer | Certified Scrum Master</h3>
-<br>
+![image](https://user-images.githubusercontent.com/31719612/205207213-9493b13b-e061-4c83-9e84-697a631ad375.png)
 
-- 🌱 I’m currently learning and working with **.NET 6, Blazor, AI, Security, Serverless with Azure Functions, Microsoft Azure technologies and etc.**
-- 👯 I’m looking to collaborate on **anything about software engineering/architecture, cloud engineering with Microsoft Azure, serverless with Azure, AI, Security and etc.**
-- 💬 Ask me about **Software Development Cycle, C#, .NET, Microsoft Azure, Fullstack Development, Software Architecture, Agile System Development, AI, Security**
+<h1 align="center">Hi 👋, I'm Artyom Yeprikyan</h1>
+<h3 align="center">Independent IT Consultant | Software Development Engineer, MCP </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyom29&label=Profile%20views&color=0e75b6&style=flat" alt="artyom" /> </p>
+
+- 🔭 I’m currently working on **APEX: which is nextGen Terminal Automation System**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Software Developement**
+
+- 📫 How to reach me **artyomyeprikyan@Outlook.com**
+
+- ⚡ Fun fact **I have a Bachelor's Degree in Architecture**  (not software lol)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/artyom-yeprikyan/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="artyom" height="30" width="30" /></a>
+<a href="https://www.upwork.com/freelancers/~010b15fb66699831e3" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlpnVq0Jnx2b2ZagyTmNaMuCkOoGG3LIw3vg2Sy9dy4VvRWqZ3_U4EUYTSm4D6mCQgFc&usqp=CAU" alt="artyom" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/artyom_yeprikyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artyom" height="30" width="40" /></a>
+</p>
+
+
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</a> <a href="https://www.linkedin.com/in/artyom-yeprikyan/" target="_blank"> <img src="https://pngimage.net/wp-content/uploads/2018/06/more-icon-png-4.png" alt="more" width="40" height="40"/> </a>
-</p>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+  </tr>
   
-<br>
+  <tr>
+	<td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
+      </a>
+      <br>VScode
+    </td>
+    
+   <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="48" height="48" alt="VS" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="48" height="48" alt="CSharp" />
+      </a>
+      <br>C#
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="NET" />
+      </a>
+      <br>.NET
+    </td>
+         <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="48" height="48" alt="Blazor" />
+      </a>
+      <br>Blazor
+    </td>
+       <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
+      </a>
+      <br>Terminal
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="48" height="48" alt="mssql" />
+      </a>
+      <br>SQL Server
+    </td>
 
-<h3 align="left">Certifications</h3>
-<p align="left">
+  </tr>
+</table>
 
-  <a href="https://drive.google.com/file/d/1WInV62LgsUe-cckkVXJMnGoyHoi8mZf-/view" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="100px" alt="DShergilashvili" /></a>
+---
 
-<h1 align="center">Let's talk about <a href="https://www.linkedin.com/company/royteam"> ROY </a></h1>
-<br>
-  <p>
-      ROY LLC. is a leading IT service provider with an existing experience of more than 4 years with strength in delivering end-to-end Web and Mobile app solutions. We bring superior technology experience as per precise needs: be it a new idea or a business bottleneck holding you back or a technology team requirement to achieve your business goals.
-  We always believe that “Everything is possible.”
+### ☄️ Github Streaks:
+
+<p align="center">
+    <img width="80%" alt="tyom29's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tyom29&theme=tokyonight&hide_border=true"/>
 </p>
+
+### ⚡ Github Stats:
+
+<p align="center">
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=tyom29&show_icons=true&hide_border=true&theme=tokyonight" alt="tyom29's stats" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyom29&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="tyom29's stats"/>
+</p>
+
+---
 
 <p>
-  
- **Human Centric**
-  
-At ROY, we are engineers with open hearts
-Driven by our Human Centric principle, we integrate engineering excellence with human values that drive our business and approach to relationships: curiosity, empathy, trust, honesty, and intuition. These qualities help us deliver high-value, high-quality solutions that our clients depend on and lifetime partnerships they believe in.
-Commitment to people is the main and absolute value for ROY. Our mission is to learn how to realize the potential of each person to achieve the best results.
-Our corporate culture is all about people and inclusion, where everyone feels valued and is encouraged to share ideas and suggestions with top management. We support our colleagues, regardless of their background or circumstances, to thrive at work.
-ROY genuinely cares about each and every colleague. We believe that workplaces with a high level of mental well-being are not only more comfortable to work at but also much more productive.
-
- **More than IT** 
- 
-We are big believers in the power of keeping it simple. Every bet we’ve ever placed on making something easier for our clients. Treating people right is fundamental to how we do business. We treat our clients as we’d want to be treated.Our security and automation software simplifies critical IT processes to give our customers peace of mind. We deliver solutions based on the fundamentals of good technology design: high quality, a top-notch user experience, and the ability to improve performance.
-  
-  Whether you’re a security analyst, IT operator, business analyst, or CIO, your day is full of challenges—and often surprises. We continually hear that you’re looking for better ways to automate and secure your environments.At ROY, we consider ourselves a part of the society that accepts a wider responsibility towards each other, the communities in which we operate, and the planet we all live on.
-
- **Our Goals**
-
-Software is supposed to make your life easier, right? We sure think so. In fact, that’s why we focus on two of the biggest pain points in IT today: security and automation. ROY has built a suite of best-in-class solutions that make security simpler and more effective and consolidate and automate IT infrastructure.
-Our goals have always been the same: Have fun, do exceptional work, build the best product in the business, experiment, pay attention to the details, treat people right, tell the truth, have a positive impact on the world around us, give back, and keep learning.
-We defy dogmatism, we are ready to change our mindset, along with the changing environment, for the greater benefit of the world.
- 
- **Our commitment to you**
-  
-Our commitment to you is simple: We focus on giving you solutions to improve everyday development operations and cut costs. Through reliable expert services, and outstanding support, we help you to solve your business problems and give you peace of mind.
-
-  <p/>
+<img alt="tyom29's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tyom29&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
