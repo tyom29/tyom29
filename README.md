@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyom29&label=Profile%20views&color=0e75b6&style=flat" alt="artyom" /> </p>
 
-- 🔭 I’m currently working on **APEX: which is nextGen Terminal Automation System**
+- 🏫  Lecturer at [UFAR](https://ufar.am/)
 
-- 🌱 I’m currently learning **React**
+- 🧑‍💻 Lead Developer @ [Com Tec Co IT Ltd](https://ctco.eu/) /  Co-Founder & CEO @ [ROY](https://www.linkedin.com/company/royteam/) 
+
+- 🔭 I’m currently working on **APEX: which is nextGen Terminal Automation System**
 
 - 💬 Ask me about **Software Developement**
 
