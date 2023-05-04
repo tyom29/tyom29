@@ -10,8 +10,6 @@
 
 - 🧑‍💻 Lead Developer @ [Com Tec Co IT Ltd](https://ctco.eu/) /  Co-Founder & CEO @ [ROY](https://www.linkedin.com/company/royteam/) 
 
-- 🔭 I’m currently working on ** nextGen Terminal Automation System **
-
 - 💬 Ask me about **Software Developement**
 
 - 📫 How to reach me **artyomyeprikyan@Outlook.com**
