@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyom29&label=Profile%20views&color=0e75b6&style=flat" alt="artyom" /> </p>
 
-- 🏫  Lecturer at [UFAR](https://ufar.am/)
+- 🏫 Lecturer at [UFAR](https://ufar.am/)
 
-- 🧑‍💻 Lead Developer @ [Com Tec Co IT Ltd](https://ctco.eu/) /  Co-Founder & CEO @ [ROY](https://www.linkedin.com/company/royteam/) 
+- 🧑‍💻 Co-Founder & CEO @ [beed.pro](https://www.linkedin.com/company/beed-pro) 
 
-- 💬 Ask me about **Software Developement**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **artyomyeprikyan@Outlook.com**
 
