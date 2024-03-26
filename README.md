@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/31719612/205207213-9493b13b-e061-4c83-9e84-697a631ad375.png)
 
 <h1 align="center">Hi 👋, I'm Artyom Yeprikyan</h1>
-<h3 align="center">Independent IT Consultant | Software Development Engineer, MCP </h3>
+<h3 align="center">Software Development Engineer, MCP </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyom29&label=Profile%20views&color=0e75b6&style=flat" alt="artyom" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **artyomyeprikyan@Outlook.com**
+- 📫 How to reach me **artyomyeprikyan@outlook.com**
 
 - ⚡ Fun fact **I have a Bachelor's Degree in Architecture**  (not software lol)
 
@@ -82,19 +82,18 @@
   </tr>
   
   <tr>
-	<td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
-      </a>
-      <br>VScode
-    </td>
-    
    <td align="center" width="96"> 
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="48" height="48" alt="VS" />
       </a>
       <br>Visual Studio
     </td>
+     <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" width="48" height="48" alt="Rider" />
+      </a>
+      <br>Rider
+    </td>	
     <td align="center" width="96">
       <a href="#" >
         <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="48" height="48" alt="CSharp" />
@@ -115,23 +114,22 @@
     </td>
        <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
+        <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" width="48" height="48" alt="Azure" />
       </a>
-      <br>Terminal
+      <br>Azure
     </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-    <td align="center"  width="96">
+       <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="48" height="48" alt="mssql" />
       </a>
       <br>SQL Server
     </td>
-
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="mssql" />
+      </a>
+      <br>Postgre SQL
+    </td>
   </tr>
 </table>
 
