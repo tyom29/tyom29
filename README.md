@@ -8,7 +8,7 @@
 
 - 🏫 Lecturer at [UFAR](https://ufar.am/)
 
-- 🧑‍💻 Co-Founder & CTO @ [beed.pro](https://www.linkedin.com/company/beed-pro) 
+- 🧑‍💻 Working on a new Startup
 
 - 💬 Ask me about **Software Development**
 
