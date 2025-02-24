@@ -9,7 +9,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -17,13 +16,13 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: tyom29
-          outputs: dist/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          output: snake.svg
 
       - name: Push Snake
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
-          directory: dist
+          directory: .
