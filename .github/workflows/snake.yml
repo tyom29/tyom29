@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: tyom29
+          outputs: dist/snake.svg
+      - name: Push Snake
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: master
+          force: true
+          directory: dist
