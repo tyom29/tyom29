@@ -227,7 +227,7 @@
 
 <h3 align="center">🐍 Watch my commits get eaten by a snake!</h3>
 <p align="center">
-  <img src="https://github.com/tyom29/tyom29/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 
