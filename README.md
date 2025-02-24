@@ -230,10 +230,6 @@
   <img src="https://github.com/tyom29/tyom29/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<h3 align="center">🚀 Activity Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tyom29&theme=react-dark" alt="tyom29's activity graph" />
-</p>
 
 <h3 align="left">🏅 Certifications</h3>
 - <a href="https://drive.google.com/file/d/1WInV62LgsUe-cckkVXJMnGoyHoi8mZf-/view">Microsoft Certified Professional</a>  
