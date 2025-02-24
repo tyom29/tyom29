@@ -189,17 +189,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" width="48" height="48" alt="WebStorm" />
       </a>
-      <br>WebStorm
+      <br>VS Code
     </td>
   </tr>
 </table>
