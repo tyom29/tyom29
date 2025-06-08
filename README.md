@@ -12,10 +12,10 @@
 </p>
 
 - 🏫 Lecturer at [UFAR](https://ufar.am/)  
-- 🧑‍💻 Working on a new Startup  
+- 🧑‍💻 Working at [MATRIX AUDIO VISUAL DESIGNS Inc.](https://matrixav.com/) 
 - 💬 Ask me about Software Development  
 - 📫 Reach me at artyomyeprikyan@outlook.com  
-- ⚡ Fun fact: I have a Bachelor's Degree in Architecture and a Master's Degree in IT!
+- 🎮 Gamer at night, coder by day — ultra-wide monitor is my cockpit.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
