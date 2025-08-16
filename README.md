@@ -11,8 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=tyom29&label=Profile%20views&color=0e75b6&style=flat" alt="artyom" />
 </p>
 
-- 🏫 Lecturer at [UFAR](https://ufar.am/)  
-- 🧑‍💻 Working at [MATRIX AUDIO VISUAL DESIGNS Inc.](https://matrixav.com/) 
+- 🧑‍💻 Software Development Engineer at [MATRIX AUDIO VISUAL DESIGNS Inc.](https://matrixav.com/) 
 - 💬 Ask me about Software Development  
 - 📫 Reach me at artyomyeprikyan@outlook.com  
 - 🎮 Gamer at night, coder by day — ultra-wide monitor is my cockpit.
